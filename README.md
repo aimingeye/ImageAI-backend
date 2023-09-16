@@ -26,8 +26,8 @@ List any software or tools that need to be installed before setting up the proje
       user : <your username>,
       password : <your- password>,
       database : <name-of-your-database>
-    }
-  });
+    }});
+  
 3. ```shell
     cd directory-of-the-app
     npm start
